@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HareemSaad
-- 👀 I’m interested in ... Software Development
+- 👀 I’m interested in ... Software Development & Blockchain Development
 - 🌱 I’m currently learning ... blockchain
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://www.linkedin.com/in/hareem-saad-b30b55224/
 
 <!---
