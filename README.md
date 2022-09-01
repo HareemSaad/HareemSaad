@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HareemSaad
-- 👀 I’m interested in ... Software Development & Blockchain Development
-- 🌱 I’m currently learning ... blockchain
+- 👀 I’m interested in ... Software Development & Blockchain Development specifically smart contract developer, tester and auditor.
+- 🌱 I’m currently learning ... blockchain, solidity & smart contract security
 - 📫 How to reach me ... https://www.linkedin.com/in/hareem-saad-b30b55224/
 
 <!---
